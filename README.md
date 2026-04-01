@@ -31,5 +31,4 @@ npm run dev
 - **Predictive Analytics**: ML models anticipate system failures and performance drops.
 - **Modern UI/UX**: Clean, responsive dashboard designed for industrial monitoring.
 
-## 📄 License
-MIT License
+
